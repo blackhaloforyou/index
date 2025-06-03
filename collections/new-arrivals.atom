@@ -1,0 +1,2994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.blackhalo.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.blackhalo.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.blackhalo.com/collections/new-arrivals.atom"/>
+  <title>Black Halo</title>
+  <updated>2025-05-27T10:39:46-07:00</updated>
+  <author>
+    <name>Black Halo</name>
+  </author>
+  <entry>
+    <id>https://www.blackhalo.com/products/6891646779464</id>
+    <published>2025-05-27T10:39:46-07:00</published>
+    <updated>2025-05-27T10:39:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/marion-gown"/>
+    <title>Marion Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-Marion_Gown-Marmalade_1.jpg?v=1747939448"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            545.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>color::Black</s:tag>
+    <s:tag>color::marmalade</s:tag>
+    <s:tag>color::Orange</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>dress_style::altbride</s:tag>
+    <s:tag>dress_style::datenight</s:tag>
+    <s:tag>dress_style::weddingguest</s:tag>
+    <s:tag>Holiday Collection</s:tag>
+    <s:tag>little black dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>shop all</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:tag>weddingguest</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Marmalade / 0</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424mar:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Marmalade / 2</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424mar:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Marmalade / 4</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424mar:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Marmalade / 6</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424mar:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Marmalade / 8</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424mar:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Marmalade / 10</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424mar:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Marmalade / 12</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424mar:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Marmalade / 14</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424mar:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424blk:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424blk:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424blk:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424blk:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424blk:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424blk:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424blk:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6891646779464</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">545.00</s:price>
+      <s:sku>6355424blk:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14673885069676</id>
+    <published>2025-05-21T12:10:23-07:00</published>
+    <updated>2025-05-21T12:10:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/braden-gown"/>
+    <title>Braden Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/8925621_Black_01.jpg?v=1747854651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">The Barden Gown is designed with a jewel neckline. The left shoulder features a subtle cap sleeve with soft tucks, while the right bodice showcases sunburst tucks for a flattering draped effect. The fitted design made in a stretch knit fabric highlights the waist and flows into a long, floor-length skirt with a high slit, adding a touch of movement.</span><br></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Jewel neckline<br></span></li>
+<li><span data-sheets-root="1">Left cap sleeve with tucks<br></span></li>
+<li><span data-sheets-root="1">Right bodice sunburst tucks<br></span></li>
+<li><span data-sheets-root="1">High slit<br></span></li>
+<li><span data-sheets-root="1">Column gown </span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'9½', Waist 24, Bust 32, Hips 34<br></span></li>
+<li>
+<span data-sheets-root="1">Model is wearing size 0</span><br>
+</li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">8925621</span></li>
+</ul>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:tag>socialite</s:tag>
+    <s:tag>weddingguest</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621blk:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621blk:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621blk:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621blk:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621blk:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621blk:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621blk:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621blk:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Lilac / 0</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621lil:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Lilac / 2</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621lil:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Lilac / 4</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621lil:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Lilac / 6</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621lil:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Lilac / 8</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621lil:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Lilac / 10</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621lil:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Lilac / 12</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621lil:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673885069676</id>
+      <title>Lilac / 14</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>8925621lil:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14674143936876</id>
+    <published>2025-05-19T16:04:46-07:00</published>
+    <updated>2025-05-19T16:04:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/dolan-gown-358"/>
+    <title>Dolan Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/3589475_BurstingBloom_01.jpg?v=1740613079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            595.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">The Dolan Gown features an elegant one-shoulder fold-over neckline. The structured bodice highlights your silhouette, while the sleek bodycon fit elongates the frame. A daring high slit adds movement and allure, making this the perfect gown for upscale events.</span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">One-shoulder fold-over neckline<br></span></li>
+<li><span data-sheets-root="1">Tailored bodycon fit<br></span></li>
+<li><span data-sheets-root="1">High slit <br></span></li>
+<li><span data-sheets-root="1">Column silhouette<br></span></li>
+<li><span data-sheets-root="1">Hidden center-back zipper with clasp<br></span></li>
+<li><span data-sheets-root="1">Fully lined for a seamless finish<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'9½', Waist 24, Bust 32, Hips 34<br></span></li>
+<li><span data-sheets-root="1">Model is wearing size 0</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">3589475</span></li>
+</ul>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>laurelsfavorites</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:tag>socialite</s:tag>
+    <s:tag>weddingguest</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674143936876</id>
+      <title>Bursting Bloom / 0</title>
+      <s:price currency="USD">595.00</s:price>
+      <s:sku>3589475bursb:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674143936876</id>
+      <title>Bursting Bloom / 2</title>
+      <s:price currency="USD">595.00</s:price>
+      <s:sku>3589475bursb:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674143936876</id>
+      <title>Bursting Bloom / 4</title>
+      <s:price currency="USD">595.00</s:price>
+      <s:sku>3589475bursb:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674143936876</id>
+      <title>Bursting Bloom / 6</title>
+      <s:price currency="USD">595.00</s:price>
+      <s:sku>3589475bursb:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674143936876</id>
+      <title>Bursting Bloom / 8</title>
+      <s:price currency="USD">595.00</s:price>
+      <s:sku>3589475bursb:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674143936876</id>
+      <title>Bursting Bloom / 10</title>
+      <s:price currency="USD">595.00</s:price>
+      <s:sku>3589475bursb:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674143936876</id>
+      <title>Bursting Bloom / 12</title>
+      <s:price currency="USD">595.00</s:price>
+      <s:sku>3589475bursb:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674143936876</id>
+      <title>Bursting Bloom / 14</title>
+      <s:price currency="USD">595.00</s:price>
+      <s:sku>3589475bursb:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314605420</id>
+    <published>2025-05-19T10:55:28-07:00</published>
+    <updated>2025-05-19T10:55:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/athena-midi-dress-432"/>
+    <title>Athena Midi dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/4325633_01.jpg?v=1742944797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">The Athena Midi Dress Crafted in a luminous knit crochet with subtle silver lurex woven throughout, this dress catches the light with every move. Featuring an asymmetric neckline with dual adjustable straps, the bodice hugs the torso before flaring into a voluminous godet skirt. The open back cutout adds a modern touch, making this fit-and-flare midi dress perfect for day-to-night occasions.</span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Knit crochet with silver lurex<br></span></li>
+<li><span data-sheets-root="1">Asymmetrical neckline with spaghetti straps<br></span></li>
+<li><span data-sheets-root="1">Fit-and-flare silhouette<br></span></li>
+<li><span data-sheets-root="1">Flared godet skirt<br></span></li>
+<li><span data-sheets-root="1">Back cutout detail<br></span></li>
+<li><span data-sheets-root="1">Midi length </span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'10.5', Waist 25, Bust 32.5, Hips 35.5<br></span></li>
+<li><span data-sheets-root="1">Model is wearing size 0<br></span></li>
+<li><span data-sheets-root="1">4325633</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314605420</id>
+      <title>Sunlit Sparkle / XS</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4325633sunspk:XS</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314605420</id>
+      <title>Sunlit Sparkle / S</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4325633sunspk:S</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314605420</id>
+      <title>Sunlit Sparkle / M</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4325633sunspk:M</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314605420</id>
+      <title>Sunlit Sparkle / L</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4325633sunspk:L</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314605420</id>
+      <title>Sunlit Sparkle / XL</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4325633sunspk:XL</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314670956</id>
+    <published>2025-05-17T14:28:22-07:00</published>
+    <updated>2025-05-17T14:28:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/jackie-o-midi-dress-461"/>
+    <title>Jackie O Midi Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/4613060_PlaidLatte_04.jpg?v=1746660619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Jackie O Midi Dress is crafted from a textured sequin boucle knit, this dress blends refined structure with a soft touch. The draped neckline and tab sleeves add a sculptural finish to the tailored bodice, while the genuine leather belt defines the waist. A center back slit allows for ease of movement, perfectly complementing the sleek midi silhouette. Designed to fit close to the body, this piece is both polished and versatile.<br></span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Sequin Boucle Knit<br></span></li>
+<li><span data-sheets-root="1">Draped Neckline<br></span></li>
+<li><span data-sheets-root="1">Tab Sleeves<br></span></li>
+<li><span data-sheets-root="1">Tailored Bodice<br></span></li>
+<li><span data-sheets-root="1">Includes Genuine Leather Belt<br></span></li>
+<li><span data-sheets-root="1">Center Back Skirt Slit<br></span></li>
+<li><span data-sheets-root="1">Midi Length Dress<br></span></li>
+<li><span data-sheets-root="1">Falls 48" from the Shoulder<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper<br></span></li>
+<li><span data-sheets-root="1">Fully Lined </span></li>
+<li><span data-sheets-root="1">4613060 </span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>Jackie o</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314670956</id>
+      <title>Plaid Latte / 0</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>4613060plala:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314670956</id>
+      <title>Plaid Latte / 2</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>4613060plala:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314670956</id>
+      <title>Plaid Latte / 4</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>4613060plala:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314670956</id>
+      <title>Plaid Latte / 6</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>4613060plala:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314670956</id>
+      <title>Plaid Latte / 8</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>4613060plala:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314670956</id>
+      <title>Plaid Latte / 10</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>4613060plala:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314670956</id>
+      <title>Plaid Latte / 12</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>4613060plala:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314670956</id>
+      <title>Plaid Latte / 14</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>4613060plala:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314933100</id>
+    <published>2025-05-14T12:51:28-07:00</published>
+    <updated>2025-05-14T12:51:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/amaranta-midi-dress-482"/>
+    <title>Amaranta Midi dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/4825631_01.jpg?v=1742944937"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            415.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">The Amaranta Midi Dress blends structure and charm with its tailored bodice and soft A-line silhouette. Designed in a blush knit boucle fabric with subtle gold lurex woven throughout, the dress features 1 " wide adjustable straps with gold hardware and a square neckline. Gold metalic braided trim at the neckline, waist and pockets adds subtle contrast, while gold buttons closures on the pockets for a polished finish.</span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">1" wide straps with rectangle gold and ring sliders<br></span></li>
+<li><span data-sheets-root="1">Square neckline with a center front dip<br></span></li>
+<li><span data-sheets-root="1">Boucle fabric with gold lurex threads<br></span></li>
+<li><span data-sheets-root="1">Fringed trim along neckline and waistband<br></span></li>
+<li><span data-sheets-root="1">A-line silhouette<br></span></li>
+<li><span data-sheets-root="1">Two 6 1/2" front patch pockets with gold buttons</span></li>
+<li><span data-sheets-root="1">Hidden center back zipper </span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'10.5', Waist 25, Bust 32.5, Hips 35.5<br></span></li>
+<li><span data-sheets-root="1">Model is wearing size 0<br></span></li>
+<li><span data-sheets-root="1">4825631</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314933100</id>
+      <title>Ballet Boucle / 0</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4825631balbo:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314933100</id>
+      <title>Ballet Boucle / 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4825631balbo:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314933100</id>
+      <title>Ballet Boucle / 4</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4825631balbo:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314933100</id>
+      <title>Ballet Boucle / 6</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4825631balbo:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314933100</id>
+      <title>Ballet Boucle / 8</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4825631balbo:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314933100</id>
+      <title>Ballet Boucle / 10</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4825631balbo:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314933100</id>
+      <title>Ballet Boucle / 12</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4825631balbo:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314933100</id>
+      <title>Ballet Boucle / 14</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4825631balbo:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314998636</id>
+    <published>2025-05-14T12:50:07-07:00</published>
+    <updated>2025-05-14T12:50:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/jacqueline-gown-491"/>
+    <title>Jacqueline Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_G1110.jpg?v=1746166878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Jacqueline Gown crafted from soft stretch jersey, this dress showcases a draped off-the-shoulder neckline that gracefully frames the collarbone. The tucked bodice detailing enhances the silhouette, leading into a flowing floor-length skirt. Designed for ease, it slips on without closures and is fully lined for added comfort.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Stretch Jersey<br></span></li>
+<li><span data-sheets-root="1">Off-the-Shoulder Draped Neckline<br></span></li>
+<li><span data-sheets-root="1">Tucked Bodice Detailing<br></span></li>
+<li><span data-sheets-root="1">Floor Length<br></span></li>
+<li><span data-sheets-root="1">Pullover Style / No Closure<br></span></li>
+<li><span data-sheets-root="1">Fully Lined</span></li>
+<li><span data-sheets-root="1"> Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">4915626</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Pacific Blue / 0</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626pacb:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Pacific Blue / 2</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626pacb:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Pacific Blue / 4</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626pacb:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Pacific Blue / 6</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626pacb:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Pacific Blue / 8</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626pacb:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Pacific Blue / 10</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626pacb:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Pacific Blue / 12</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626pacb:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Pacific Blue / 14</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626pacb:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Red / 0</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626red:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Red / 2</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626red:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Red / 4</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626red:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Red / 6</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626red:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Red / 8</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626red:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Red / 10</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626red:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Red / 12</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626red:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314998636</id>
+      <title>Red / 14</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>4915626red:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701315326316</id>
+    <published>2025-05-14T12:48:24-07:00</published>
+    <updated>2025-05-14T12:48:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/vestra-2pc-jumpsuit-660"/>
+    <title>Vestra 2pc Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/6601749_Stone_01.jpg?v=1746660716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">This structured two-piece set brings a modern edge to tailored dressing. The cropped vest features a V-neckline, front self-covered square buttons, and faux welt pocket detailing for a refined finish. Paired with high-waisted straight leg pants, designed with princess seams to elongate the frame, the look strikes a confident balance between sharp and minimal. The back slit of the vest adds a subtle point of interest while keeping the silhouette light and contemporary.</span></p>
+<ul>
+<li><span data-sheets-root="1">Cady Bi-Stretch<br></span></li>
+<li><span data-sheets-root="1">V-Neckline<br></span></li>
+<li><span data-sheets-root="1">Sleeveless<br></span></li>
+<li><span data-sheets-root="1">Self-Covered Square Buttons and Welt Pocket Details at Vest<br></span></li>
+<li><span data-sheets-root="1">Straight Leg Pants with Princess Seam Detailing<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper at Pant<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0<br></span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">6601749</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314343276</id>
+    <published>2025-05-07T16:26:06-07:00</published>
+    <updated>2025-05-07T16:26:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/jacqueline-mini-dress-300"/>
+    <title>Jacqueline Mini dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_N1688.jpg?v=1747335942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">A modern take on a timeless silhouette, the Jacqueline mini dress is the reimagined evolution of our iconic Jackie O. Designed for 2025, this style blends refined tailoring with sculptural draping, creating a sleek, confident look. Crafted from structured stretch super loft woven, it features an off-shoulder neckline with soft tucks that frame the bodice, leading into a mini skirt. The fitted design flatters the natural shape, making it a go-to choice for elevated occasions.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Stretch Crepe<br></span></li>
+<li><span data-sheets-root="1">Off-the-Shoulder Draped Neckline<br></span></li>
+<li><span data-sheets-root="1">Tucked Bodice Detailing<br></span></li>
+<li><span data-sheets-root="1">Mini Length<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper<br></span></li>
+<li><span data-sheets-root="1">Fully Lined<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">3005624</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Desert Sand / 0</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624deses:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Desert Sand / 2</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624deses:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Desert Sand / 4</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624deses:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Desert Sand / 6</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624deses:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Desert Sand / 8</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624deses:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Desert Sand / 10</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624deses:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Desert Sand / 12</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624deses:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Desert Sand / 14</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624deses:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Fuchsia / 0</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624fuch:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Fuchsia / 2</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624fuch:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Fuchsia / 4</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624fuch:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Fuchsia / 6</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624fuch:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Fuchsia / 8</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624fuch:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Fuchsia / 10</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624fuch:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Fuchsia / 12</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624fuch:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314343276</id>
+      <title>Fuchsia / 14</title>
+      <s:price currency="USD">375.00</s:price>
+      <s:sku>3005624fuch:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701315195244</id>
+    <published>2025-05-07T16:19:03-07:00</published>
+    <updated>2025-05-07T16:19:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/evelina-jumpsuit-635"/>
+    <title>Evelina Jumpsuit</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_E0675.jpg?v=1746166556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Evelina Jumpsuit blends fluid lines with sharp structure. Designed in crepe back satin, it features a one-shoulder neckline with a draped overlay sleeve that falls softly over one arm, creating a sculptural effect. The bodice is clean and fitted, while the straight-leg pants are tailored with side slits for added movement. Inseam pockets add functionality without interrupting the silhouette. A hidden zipper at the back ensures a seamless finish.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Crepe Back Satin<br></span></li>
+<li><span data-sheets-root="1">Asymmetrical Neckline<br></span></li>
+<li><span data-sheets-root="1">One Draped Off-Shoulder Short Sleeve<br></span></li>
+<li><span data-sheets-root="1">Inseam Pockets at Pants<br></span></li>
+<li><span data-sheets-root="1">Straight Leg with Side Slits<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper<br></span></li>
+<li><span data-sheets-root="1">Bodice Lined<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">6351754</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314572652</id>
+    <published>2025-05-07T16:15:04-07:00</published>
+    <updated>2025-05-07T16:15:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/sorelle-jumpsuit-410"/>
+    <title>Sorelle Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/4101761_White_01.jpg?v=1746659633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            485.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Sorelle Jumpsuit is crafted from crisp white denim, this jumpsuit blends structure and ease with thoughtful details throughout. The bodice features a sweetheart neckline with a modern cutout and wide shoulder straps, creating a flattering silhouette. High-waisted straight-leg pants elongate the figure, with a subtle cutout at the back waist. Finished with tonal topstitching and a hidden zipper closure, it’s a confident look designed for movement and presence.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">White denim fabric<br></span></li>
+<li><span data-sheets-root="1">Sweetheart neckline with front cutout<br></span></li>
+<li><span data-sheets-root="1">Wide shoulder straps<br></span></li>
+<li><span data-sheets-root="1">Sleeveless<br></span></li>
+<li><span data-sheets-root="1">High-waisted straight-leg pants<br></span></li>
+<li><span data-sheets-root="1">Inseam pockets<br></span></li>
+<li><span data-sheets-root="1">Cutout detail at the back waist<br></span></li>
+<li><span data-sheets-root="1">Topstitching along princess seams<br></span></li>
+<li><span data-sheets-root="1">Hidden center back zipper</span></li>
+<li>
+<span data-sheets-root="1">Bodice lined </span><br>
+</li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">4101761</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 0</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 2</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 4</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 6</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 8</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 10</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 12</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 14</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314867564</id>
+    <published>2025-05-02T08:26:24-07:00</published>
+    <updated>2025-05-02T08:26:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/marietta-gown-480"/>
+    <title>Marietta Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_R1925.jpg?v=1746167323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            645.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-sheets-root="1">The Marietta Gown is designed with a one-shoulder neckline, the bodice is artfully draped for dimension and flow. A high slit on the wearer’s right adds a modern, leggy finish, while the floor-length skirt balances the silhouette with ease. Fully lined for comfort and polish, this dress captures the energy of a statement moment.</span><br></p>
+<ul>
+<li>
+<meta charset="utf-8"> <span data-sheets-root="1">Floral Printed Satin<br></span>
+</li>
+<li><span data-sheets-root="1">One-Shoulder Neckline<br></span></li>
+<li><span data-sheets-root="1">Asymmetrical Draping on Bodice<br></span></li>
+<li><span data-sheets-root="1">Hidden Zipper at Wearer’s Left<br></span></li>
+<li><span data-sheets-root="1">High Slit at Wearer’s Right<br></span></li>
+<li><span data-sheets-root="1">Floor-Length Skirt<br></span></li>
+<li><span data-sheets-root="1">Fully Lined 4805632. Model Measurements: Height 5' 10", Waist 24", Bust 32 A", </span></li>
+<li><span data-sheets-root="1">Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0.</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314867564</id>
+      <title>Floral Crush / 0</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku>4805632flocr:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314867564</id>
+      <title>Floral Crush / 2</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku>4805632flocr:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314867564</id>
+      <title>Floral Crush / 4</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku>4805632flocr:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314867564</id>
+      <title>Floral Crush / 6</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku>4805632flocr:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314867564</id>
+      <title>Floral Crush / 8</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku>4805632flocr:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314867564</id>
+      <title>Floral Crush / 10</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku>4805632flocr:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314867564</id>
+      <title>Floral Crush / 12</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku>4805632flocr:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314867564</id>
+      <title>Floral Crush / 14</title>
+      <s:price currency="USD">645.00</s:price>
+      <s:sku>4805632flocr:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701315260780</id>
+    <published>2025-05-02T08:19:40-07:00</published>
+    <updated>2025-05-02T08:19:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/caelith-midi-dress-635"/>
+    <title>Caelith Midi dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_Q1883.jpg?v=1747335245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            415.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Caelith Midi Dress is designed to highlight the waist and flatter the neckline. The deep V-neck is complemented by a sleek mock neck cutout and ties at the back for an adjustable fit. A full midi skirt adds graceful movement, while discreet inseam pockets offer everyday ease. Perfect for evening soirées or elevated daytime events.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Crepe Back Satin<br></span></li>
+<li><span data-sheets-root="1">V-Neckline with Mock Neck Cutout<br></span></li>
+<li><span data-sheets-root="1">Sleeveless<br></span></li>
+<li><span data-sheets-root="1">Tie Closure at the Back of the Neck for an Adjustable Fit<br></span></li>
+<li><span data-sheets-root="1">Inseam Pockets at Skirt<br></span></li>
+<li><span data-sheets-root="1">Full Midi Skirt<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper<br></span></li>
+<li><span data-sheets-root="1">Fully Lined  </span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">6355596</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Lemon Drop / 0</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596lemd:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Lemon Drop / 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596lemd:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Lemon Drop / 4</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596lemd:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Lemon Drop / 6</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596lemd:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Lemon Drop / 8</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596lemd:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Lemon Drop / 10</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596lemd:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Lemon Drop / 12</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596lemd:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Lemon Drop / 14</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596lemd:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596blk:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596blk:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596blk:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596blk:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596blk:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596blk:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596blk:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315260780</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>6355596blk:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701315064172</id>
+    <published>2025-05-02T08:16:29-07:00</published>
+    <updated>2025-05-02T08:16:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/kismet-midi-dress-493"/>
+    <title>Kismet midi dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_E0843.jpg?v=1746166674"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            345.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Kismet Midi Dress is crafted from sculpting bonded knit, this midi dress contours the body with clean lines and structured detail. It features a scoop neckline and three-quarter sleeves with lightly padded shoulders for a tailored touch. The faux flap accents at the waist add subtle interest, while the thigh-high slit offers just the right amount of edge. A concealed back zipper ensures a smooth fit from every angle.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Bonded Knit<br></span></li>
+<li><span data-sheets-root="1">Scoop Neckline<br></span></li>
+<li><span data-sheets-root="1">Three-Quarter Sleeves<br></span></li>
+<li><span data-sheets-root="1">Padded Shoulders<br></span></li>
+<li><span data-sheets-root="1">Faux Flap Details at Waist<br></span></li>
+<li><span data-sheets-root="1">Midi Length<br></span></li>
+<li><span data-sheets-root="1">Thigh Slit at Wearer’s Right<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper<br></span></li>
+<li><span data-sheets-root="1">Fully Lined </span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">4935556</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315064172</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>4935556blk:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315064172</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>4935556blk:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315064172</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>4935556blk:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315064172</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>4935556blk:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315064172</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>4935556blk:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315064172</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>4935556blk:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315064172</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>4935556blk:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315064172</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>4935556blk:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701275087212</id>
+    <published>2025-05-01T23:50:20-07:00</published>
+    <updated>2025-05-01T23:50:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/caprina-gown-635"/>
+    <title>Caprina Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_C0378.jpg?v=1746166297"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            495.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Caprina Gown is a refined one-shoulder gown crafted from crepe back satin. Designed with thoughtful draping across the bodice and a single off-shoulder sleeve, this floor-length silhouette features a self-belt to define the waist and a thigh-high slit that adds a touch of drama. It’s a confident, sculpted look perfect for any formal occasion.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Crepe Back Satin<br></span></li>
+<li><span data-sheets-root="1">Asymmetrical Neckline<br></span></li>
+<li><span data-sheets-root="1">One Draped Off-Shoulder Short Sleeve<br></span></li>
+<li><span data-sheets-root="1">Self-Belt with Rectangular Buckle<br></span></li>
+<li><span data-sheets-root="1">A-line Silhouette<br></span></li>
+<li><span data-sheets-root="1">High Thigh Slit at Wearer's Right<br></span></li>
+<li><span data-sheets-root="1">Floor Length<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper<br></span></li>
+<li><span data-sheets-root="1">Fully Lined  </span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">6355611</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611blk:0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611blk:2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611blk:4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611blk:6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611blk:8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611blk:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611blk:12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611blk:14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Fuchsia / 0</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611fuch:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Fuchsia / 2</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611fuch:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Fuchsia / 4</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611fuch:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Fuchsia / 6</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611fuch:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Fuchsia / 8</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611fuch:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Fuchsia / 10</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611fuch:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Fuchsia / 12</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611fuch:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701275087212</id>
+      <title>Fuchsia / 14</title>
+      <s:price currency="USD">495.00</s:price>
+      <s:sku>6355611fuch:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314474348</id>
+    <published>2025-05-01T23:37:04-07:00</published>
+    <updated>2025-05-01T23:37:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/beverly-midi-dress-300"/>
+    <title>Beverly Midi dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_A0092.jpg?v=1746166179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Beverly Midi Dress brings structure and softness together with a square neckline and contoured bodice. The adjustable shoulder straps and topstitched corset seaming offer a precise fit, while the pencil skirt adds a timeless finish. It’s crafted in stretch crepe for comfort and shape retention.<br></span><span data-sheets-root="1"></span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Stretch Crepe<br></span></li>
+<li><span data-sheets-root="1">Square Neckline with Adjustable Shoulder Straps<br></span></li>
+<li><span data-sheets-root="1">Sleeveless<br></span></li>
+<li><span data-sheets-root="1">Topstitch Details on Corset Seams<br></span></li>
+<li><span data-sheets-root="1">Pencil Midi Skirt<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper<br></span></li>
+<li><span data-sheets-root="1">Fully Lined </span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">3005628</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314474348</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3005628blk:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314474348</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3005628blk:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314474348</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3005628blk:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314474348</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3005628blk:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314474348</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3005628blk:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314474348</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3005628blk:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314474348</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3005628blk:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314474348</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3005628blk:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701315490156</id>
+    <published>2025-05-01T23:35:36-07:00</published>
+    <updated>2025-05-01T23:35:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/dorothea-gown-892"/>
+    <title>Dorothea Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_F0988.jpg?v=1746167422"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Dorothea Gown features a structured square neckline with wide shoulder straps that provide a clean, tailored look. At the waist, a sculptural high-low peplum detail flows into a full-length pleated jersey skirt, creating fluid texture and dimensional depth. Perfect for occasions that call for refined drama, this dress balances crisp structure with graceful flow.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Square neckline with shoulder straps<br></span></li>
+<li><span data-sheets-root="1">Sleeveless<br></span></li>
+<li><span data-sheets-root="1">Peplum high-low detail at waist<br></span></li>
+<li><span data-sheets-root="1">Pleated jersey for textural contrast<br></span></li>
+<li><span data-sheets-root="1">Floor length<br></span></li>
+<li><span data-sheets-root="1">Hidden center back zipper <br></span></li>
+<li><span data-sheets-root="1">Bodice lined<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">8925648</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315490156</id>
+      <title>Pacific Blue / 0</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>8925648pacbpacb:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315490156</id>
+      <title>Pacific Blue / 2</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>8925648pacbpacb:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315490156</id>
+      <title>Pacific Blue / 4</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>8925648pacbpacb:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315490156</id>
+      <title>Pacific Blue / 6</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>8925648pacbpacb:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315490156</id>
+      <title>Pacific Blue / 8</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>8925648pacbpacb:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315490156</id>
+      <title>Pacific Blue / 10</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>8925648pacbpacb:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315490156</id>
+      <title>Pacific Blue / 12</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>8925648pacbpacb:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315490156</id>
+      <title>Pacific Blue / 14</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>8925648pacbpacb:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314802028</id>
+    <published>2025-05-01T23:33:33-07:00</published>
+    <updated>2025-05-01T23:33:33-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/neriah-gown-474"/>
+    <title>Neriah Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_O1803.jpg?v=1746167580"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Neriah Gown captures a sense of lightness with its airy drape and vivid watercolor-inspired pattern. Designed with a gathered halter neckline and a twisted waist overlay, it defines the silhouette while allowing for effortless movement. The floor-length skirt flows from the waist in soft, fluid pleats, making it a striking choice for warm-weather events. A tie-back neck closure and hidden zipper ensure a secure and flattering fit.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Printed Mesh<br></span></li>
+<li><span data-sheets-root="1">Adjustable Halter Neck Tie<br></span></li>
+<li><span data-sheets-root="1">Drape Bodice Detailing<br></span></li>
+<li><span data-sheets-root="1">Draped Waist and Hip Overlay<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper<br></span></li>
+<li><span data-sheets-root="1">Fully Lined<br></span></li>
+<li><span data-sheets-root="1">Floor Length<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">4745627</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314802028</id>
+      <title>Brilliant Citrine / 0</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4745627brici:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314802028</id>
+      <title>Brilliant Citrine / 2</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4745627brici:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314802028</id>
+      <title>Brilliant Citrine / 4</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4745627brici:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314802028</id>
+      <title>Brilliant Citrine / 6</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4745627brici:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314802028</id>
+      <title>Brilliant Citrine / 8</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4745627brici:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314802028</id>
+      <title>Brilliant Citrine / 10</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4745627brici:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314802028</id>
+      <title>Brilliant Citrine / 12</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4745627brici:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314802028</id>
+      <title>Brilliant Citrine / 14</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4745627brici:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701315129708</id>
+    <published>2025-03-25T16:25:15-07:00</published>
+    <updated>2025-03-25T16:25:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/pamina-2pc-mini-dress-493"/>
+    <title>Pamina 2pc mini dress</title>
+    <s:type>Dress</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/4935636_01.jpg?v=1742945079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dress<br>
+        <strong>Price: </strong>
+            298.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">The Pamina 2pc Mini Dress is crafted from structured double-faced bonded knit fabric, this two-piece set makes a bold and playful statement. The crop top features a square neckline and clean horizontal seaming, while the high-waisted skirt is designed with a wide yoke and dramatic pleating that flares out for added volume and movement. Both pieces are designed without zippers, offering a sleek, pull-on fit that comfortably molds to your body. </span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Double-faced bonded<br></span></li>
+<li><span data-sheets-root="1">Square neckline<br></span></li>
+<li><span data-sheets-root="1">Sleeveless crop top with horizontal seaming<br></span></li>
+<li><span data-sheets-root="1">High-waisted skirt<br></span></li>
+<li><span data-sheets-root="1">Voluminous pleating<br></span></li>
+<li><span data-sheets-root="1">Pull-on style</span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'10.5', Waist 25, Bust 32.5, Hips 35.5<br></span></li>
+<li><span data-sheets-root="1">Model is wearing size 0<br></span></li>
+<li><span data-sheets-root="1">4935636</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315129708</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">298.00</s:price>
+      <s:sku>4935636blk:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315129708</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">298.00</s:price>
+      <s:sku>4935636blk:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315129708</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">298.00</s:price>
+      <s:sku>4935636blk:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315129708</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">298.00</s:price>
+      <s:sku>4935636blk:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315129708</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">298.00</s:price>
+      <s:sku>4935636blk:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315129708</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">298.00</s:price>
+      <s:sku>4935636blk:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315129708</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">298.00</s:price>
+      <s:sku>4935636blk:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315129708</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">298.00</s:price>
+      <s:sku>4935636blk:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314539884</id>
+    <published>2025-03-25T16:18:15-07:00</published>
+    <updated>2025-03-25T16:18:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/birdie-mini-dress-359"/>
+    <title>Birdie Mini Dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/3595603_Porcelain_01.jpg?v=1742858416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            390.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">The Birdie Mini Dress is crafted in stretch super loft woven, this mini dress is all about structure and movement. It features a crisp square neckline and a corset-seamed bodice that creates a sculpted fit. The drop waist flows into a playful bubble skirt, adding volume and personality to the look. A go-to piece for when you want something fun, but with a sharp finish.</span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Stretch Super Loft Woven<br></span></li>
+<li><span data-sheets-root="1">Square neckline<br></span></li>
+<li><span data-sheets-root="1">Sleeveless<br></span></li>
+<li><span data-sheets-root="1">Corset-style bodice seaming<br></span></li>
+<li><span data-sheets-root="1">Drop waist<br></span></li>
+<li><span data-sheets-root="1">Bubble skirt<br></span></li>
+<li><span data-sheets-root="1">Hidden back zipper closure<br></span></li>
+<li>Fully Lined</li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'10.5', Waist 25, Bust 32.5, Hips 35.5<br></span></li>
+<li><span data-sheets-root="1">Model is wearing size 0<br></span></li>
+<li><span data-sheets-root="1">3595603</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>Mini</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Porcelain / 0</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603por:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Porcelain / 2</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603por:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Porcelain / 4</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603por:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Porcelain / 6</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603por:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Porcelain / 8</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603por:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Porcelain / 10</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603por:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Porcelain / 12</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603por:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Porcelain / 14</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603por:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Scenic / 0</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603sce:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Scenic / 2</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603sce:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Scenic / 4</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603sce:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Scenic / 6</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603sce:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Scenic / 8</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603sce:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Scenic / 10</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603sce:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Scenic / 12</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603sce:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314539884</id>
+      <title>Scenic / 14</title>
+      <s:price currency="USD">390.00</s:price>
+      <s:sku>3595603sce:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14673884610924</id>
+    <published>2025-03-20T08:29:22-07:00</published>
+    <updated>2025-03-20T08:29:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/aura-midi-dress"/>
+    <title>Aura Midi dress</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/4035601_Classic_Luxe_01.jpg?v=1742484496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            415.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">The Aura Midi Dress combines structure and detail for a polished look. The jewel neckline and sleeveless silhouette create a clean, modern shape, while the center front row of shiny gold buttons adds a statement touch. Faux pockets with contrasting piping lend a tailored feel, and a center front slit allows for ease of movement. The fitted column silhouette enhances the figure, making this a versatile piece for both professional and social occasions.<br></span><span data-sheets-root="1"></span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Jewel neckline<br></span></li>
+<li><span data-sheets-root="1">Sleeveless design<br></span></li>
+<li><span data-sheets-root="1">Center front shiny gold buttons<br></span></li>
+<li><span data-sheets-root="1">Faux pockets with piping<br></span></li>
+<li><span data-sheets-root="1">Center front slit<br></span></li>
+<li><span data-sheets-root="1">Column midi dress </span></li>
+<li><span data-sheets-root="1">Hidden back zipper closure</span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'9½', Waist 24, Bust 32, Hips 34<br></span></li>
+<li><span data-sheets-root="1">Model is wearing size 0</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884610924</id>
+      <title>Classic Luxe / 0</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4035601clalu:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884610924</id>
+      <title>Classic Luxe / 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4035601clalu:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884610924</id>
+      <title>Classic Luxe / 4</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4035601clalu:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884610924</id>
+      <title>Classic Luxe / 6</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4035601clalu:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884610924</id>
+      <title>Classic Luxe / 8</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4035601clalu:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884610924</id>
+      <title>Classic Luxe / 10</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4035601clalu:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884610924</id>
+      <title>Classic Luxe / 12</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4035601clalu:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884610924</id>
+      <title>Classic Luxe / 14</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>4035601clalu:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14673884840300</id>
+    <published>2025-03-20T08:26:56-07:00</published>
+    <updated>2025-03-20T08:26:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/leonora-gown"/>
+    <title>Leonora Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/4795605_FloralFlow_01.jpg?v=1742484209"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">A striking strapless column gown featuring an abstract rose print that makes a bold statement. The structured bodice is designed with a cup detail and a draped overlay, creating a flattering silhouette. </span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Strapless neckline<br></span></li>
+<li><span data-sheets-root="1">Cup detail on bodice<br></span></li>
+<li><span data-sheets-root="1">Draped bodice overlay<br></span></li>
+<li><span data-sheets-root="1">Column gown silhouette<br></span></li>
+<li><span data-sheets-root="1">Abstract rose print<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'9½', Waist 24, Bust 32, Hips 34<br></span></li>
+<li><span data-sheets-root="1">Model is wearing size 0</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:tag>weddingguest</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884840300</id>
+      <title>Floral Flow / 0</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4795605florfl:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884840300</id>
+      <title>Floral Flow / 2</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4795605florfl:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884840300</id>
+      <title>Floral Flow / 4</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4795605florfl:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884840300</id>
+      <title>Floral Flow / 6</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4795605florfl:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884840300</id>
+      <title>Floral Flow / 8</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4795605florfl:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884840300</id>
+      <title>Floral Flow / 10</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4795605florfl:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884840300</id>
+      <title>Floral Flow / 12</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4795605florfl:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884840300</id>
+      <title>Floral Flow / 14</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>4795605florfl:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14673884217708</id>
+    <published>2025-03-06T14:40:08-08:00</published>
+    <updated>2025-03-06T14:40:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/vella-gown"/>
+    <title>Vella Gown</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/1755557_PleatedHues_04.jpg?v=1740612572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            575.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">Make an entrance in the Vella Gown. This asymetrical one-shoulder silhouette drapes effortlessly, featuring a pleated texture that enhances its multicolor design. A built-in cape detail cascades from the shoulder, adding movement to the sleek column fit.</span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Asymmetrical one-shoulder neckline<br></span></li>
+<li><span data-sheets-root="1">Attached shoulder cape<br></span></li>
+<li><span data-sheets-root="1">Shirred right waist side seam<br></span></li>
+<li><span data-sheets-root="1">Pleated fabric with multicolor design<br></span></li>
+<li><span data-sheets-root="1">Floor-length column silhouette<br></span></li>
+<li><span data-sheets-root="1">Hidden back zipper<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'9½', Waist 24, Bust 32, Hips 34<br></span></li>
+<li><span data-sheets-root="1">Model is wearing size 0</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">1755557</span></li>
+</ul>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:tag>weddingguest</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884217708</id>
+      <title>Pleated Hues / 0</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>1755557pleah:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884217708</id>
+      <title>Pleated Hues / 2</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>1755557pleah:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884217708</id>
+      <title>Pleated Hues / 4</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>1755557pleah:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884217708</id>
+      <title>Pleated Hues / 6</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>1755557pleah:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884217708</id>
+      <title>Pleated Hues / 8</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>1755557pleah:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884217708</id>
+      <title>Pleated Hues / 10</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>1755557pleah:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884217708</id>
+      <title>Pleated Hues / 12</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>1755557pleah:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884217708</id>
+      <title>Pleated Hues / 14</title>
+      <s:price currency="USD">575.00</s:price>
+      <s:sku>1755557pleah:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14674144067948</id>
+    <published>2025-03-03T10:24:46-08:00</published>
+    <updated>2025-03-03T10:24:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/rafaela-maxi-449"/>
+    <title>Rafaela Maxi</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/4495444_Pearidise_02.jpg?v=1740694298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">The Rafaela Maxi Dress features a draped V-neckline that adds a touch of fluidity to the bodice. Made in a textured stretch lurex knit, thoughtfully placed tucks sculpt the waist, while shirring along the skirt enhances the silhouette, creating a flattering and elongating effect. Designed with long fitted sleeves and a streamlined floor-length hem, this gown offers a sleek yet refined appeal.</span><br></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Draped V-neckline<br></span></li>
+<li><span data-sheets-root="1">Tucked bodice<br></span></li>
+<li><span data-sheets-root="1">Shirred detailing on skirt<br></span></li>
+<li><span data-sheets-root="1">Long fitted sleeves<br></span></li>
+<li><span data-sheets-root="1">Floor-length column silhouette</span></li>
+<li>
+<span data-sheets-root="1">Model Measurements: Height 5'9½', Waist 24, </span><span data-sheets-root="1">Bust 32, Hips 34<br></span>
+</li>
+<li><span data-sheets-root="1">Model is wearing size 0</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">4495444</span></li>
+</ul>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>cocktail</s:tag>
+    <s:tag>Dress</s:tag>
+    <s:tag>laurelsfavorites</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:tag>socialite</s:tag>
+    <s:tag>weddingguest</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674144067948</id>
+      <title>Pearidise / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4495444prd:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674144067948</id>
+      <title>Pearidise / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4495444prd:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674144067948</id>
+      <title>Pearidise / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4495444prd:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674144067948</id>
+      <title>Pearidise / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4495444prd:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674144067948</id>
+      <title>Pearidise / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4495444prd:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674144067948</id>
+      <title>Pearidise / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4495444prd:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674144067948</id>
+      <title>Pearidise / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4495444prd:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14674144067948</id>
+      <title>Pearidise / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>4495444prd:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14640245211500</id>
+    <published>2025-02-27T14:58:51-08:00</published>
+    <updated>2025-02-27T14:58:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/sinclair-jumpsuit"/>
+    <title>Sinclair Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/3591719_Black_03.jpg?v=1740697118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">A sophisticated jumpsuit with a tailored fit and modern details. Featuring a flattering V-neckline, long sleeves, and a layered waist design, the style enhances your silhouette effortlessly. The wide-leg pants and stretch fabric ensure comfort and elegance for any occasion.</span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">V-neckline jumpsuit<br></span></li>
+<li><span data-sheets-root="1">Long sleeves<br></span></li>
+<li><span data-sheets-root="1">Layered waist detail<br></span></li>
+<li><span data-sheets-root="1">Tailored bodice<br></span></li>
+<li><span data-sheets-root="1">Wide-leg pants <br></span></li>
+<li><span data-sheets-root="1">Stretch fabric </span></li>
+<li><span data-sheets-root="1">Hidden center back zipper</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">3591719</span></li>
+</ul>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>laurelsfavorites</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

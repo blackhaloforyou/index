@@ -1,0 +1,2598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.blackhalo.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.blackhalo.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.blackhalo.com/collections/jumpsuits.atom"/>
+  <title>Black Halo</title>
+  <updated>2025-05-14T12:48:24-07:00</updated>
+  <author>
+    <name>Black Halo</name>
+  </author>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701315326316</id>
+    <published>2025-05-14T12:48:24-07:00</published>
+    <updated>2025-05-14T12:48:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/vestra-2pc-jumpsuit-660"/>
+    <title>Vestra 2pc Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/6601749_Stone_01.jpg?v=1746660716"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">This structured two-piece set brings a modern edge to tailored dressing. The cropped vest features a V-neckline, front self-covered square buttons, and faux welt pocket detailing for a refined finish. Paired with high-waisted straight leg pants, designed with princess seams to elongate the frame, the look strikes a confident balance between sharp and minimal. The back slit of the vest adds a subtle point of interest while keeping the silhouette light and contemporary.</span></p>
+<ul>
+<li><span data-sheets-root="1">Cady Bi-Stretch<br></span></li>
+<li><span data-sheets-root="1">V-Neckline<br></span></li>
+<li><span data-sheets-root="1">Sleeveless<br></span></li>
+<li><span data-sheets-root="1">Self-Covered Square Buttons and Welt Pocket Details at Vest<br></span></li>
+<li><span data-sheets-root="1">Straight Leg Pants with Princess Seam Detailing<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper at Pant<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0<br></span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">6601749</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Stone / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749Stone:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315326316</id>
+      <title>Navy / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6601749navy:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701315195244</id>
+    <published>2025-05-07T16:19:03-07:00</published>
+    <updated>2025-05-07T16:19:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/evelina-jumpsuit-635"/>
+    <title>Evelina Jumpsuit</title>
+    <s:type>Dresses</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-ECOMM-SS25_E0675.jpg?v=1746166556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Dresses<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Evelina Jumpsuit blends fluid lines with sharp structure. Designed in crepe back satin, it features a one-shoulder neckline with a draped overlay sleeve that falls softly over one arm, creating a sculptural effect. The bodice is clean and fitted, while the straight-leg pants are tailored with side slits for added movement. Inseam pockets add functionality without interrupting the silhouette. A hidden zipper at the back ensures a seamless finish.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">Crepe Back Satin<br></span></li>
+<li><span data-sheets-root="1">Asymmetrical Neckline<br></span></li>
+<li><span data-sheets-root="1">One Draped Off-Shoulder Short Sleeve<br></span></li>
+<li><span data-sheets-root="1">Inseam Pockets at Pants<br></span></li>
+<li><span data-sheets-root="1">Straight Leg with Side Slits<br></span></li>
+<li><span data-sheets-root="1">Hidden Center Back Zipper<br></span></li>
+<li><span data-sheets-root="1">Bodice Lined<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">6351754</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701315195244</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351754blk:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14701314572652</id>
+    <published>2025-05-07T16:15:04-07:00</published>
+    <updated>2025-05-07T16:15:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/sorelle-jumpsuit-410"/>
+    <title>Sorelle Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/4101761_White_01.jpg?v=1746659633"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            485.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-sheets-root="1">The Sorelle Jumpsuit is crafted from crisp white denim, this jumpsuit blends structure and ease with thoughtful details throughout. The bodice features a sweetheart neckline with a modern cutout and wide shoulder straps, creating a flattering silhouette. High-waisted straight-leg pants elongate the figure, with a subtle cutout at the back waist. Finished with tonal topstitching and a hidden zipper closure, it’s a confident look designed for movement and presence.</span></p>
+<ul>
+<li><span data-sheets-root="1"><meta charset="utf-8">White denim fabric<br></span></li>
+<li><span data-sheets-root="1">Sweetheart neckline with front cutout<br></span></li>
+<li><span data-sheets-root="1">Wide shoulder straps<br></span></li>
+<li><span data-sheets-root="1">Sleeveless<br></span></li>
+<li><span data-sheets-root="1">High-waisted straight-leg pants<br></span></li>
+<li><span data-sheets-root="1">Inseam pockets<br></span></li>
+<li><span data-sheets-root="1">Cutout detail at the back waist<br></span></li>
+<li><span data-sheets-root="1">Topstitching along princess seams<br></span></li>
+<li><span data-sheets-root="1">Hidden center back zipper</span></li>
+<li>
+<span data-sheets-root="1">Bodice lined </span><br>
+</li>
+<li><span data-sheets-root="1">Model Measurements: Height 5' 10", Waist 24", Bust 32 A", Hips 35"<br></span></li>
+<li><span data-sheets-root="1">Model is wearing Size 0</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8">4101761</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 0</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 2</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 4</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 6</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 8</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 10</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 12</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14701314572652</id>
+      <title>White / 14</title>
+      <s:price currency="USD">485.00</s:price>
+      <s:sku>4101761wht:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14640245211500</id>
+    <published>2025-02-27T14:58:51-08:00</published>
+    <updated>2025-02-27T14:58:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/sinclair-jumpsuit"/>
+    <title>Sinclair Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/3591719_Black_03.jpg?v=1740697118"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">A sophisticated jumpsuit with a tailored fit and modern details. Featuring a flattering V-neckline, long sleeves, and a layered waist design, the style enhances your silhouette effortlessly. The wide-leg pants and stretch fabric ensure comfort and elegance for any occasion.</span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">V-neckline jumpsuit<br></span></li>
+<li><span data-sheets-root="1">Long sleeves<br></span></li>
+<li><span data-sheets-root="1">Layered waist detail<br></span></li>
+<li><span data-sheets-root="1">Tailored bodice<br></span></li>
+<li><span data-sheets-root="1">Wide-leg pants <br></span></li>
+<li><span data-sheets-root="1">Stretch fabric </span></li>
+<li><span data-sheets-root="1">Hidden center back zipper</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">3591719</span></li>
+</ul>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>laurelsfavorites</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14640245211500</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591719blk:14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14673884447084</id>
+    <published>2025-02-27T12:56:38-08:00</published>
+    <updated>2025-02-27T12:56:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/kyria-cb-jumpsuit"/>
+    <title>Kyria CB Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/3591737_blkPorcelain_02.jpg?v=1740689781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">The Kyria CB faux two-piece jumpsuit blends modern design with a structured silhouette. The bodice features bold color blocking, highlighted by a square neckline and adjustable shoulder straps. A peplum waistline cinched with a self-belt and a sleek rectangular buckle enhances the shape, offering a flattering fit. Front faux welt pockets add a chic touch, while the bootcut pants elongate the legs for a polished finish.<br></span><span data-sheets-root="1"></span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Faux two-piece jumpsuit<br></span></li>
+<li><span data-sheets-root="1">Color-blocked design<br></span></li>
+<li><span data-sheets-root="1">Square neckline with adjustable straps<br></span></li>
+<li><span data-sheets-root="1">Self-belt with rectangular buckle<br></span></li>
+<li><span data-sheets-root="1">Peplum waist detail<br></span></li>
+<li><span data-sheets-root="1">Front faux welt pockets</span></li>
+<li><span data-sheets-root="1">Bootcut pants<br></span></li>
+<li><span data-sheets-root="1">Back zipper closure<br></span></li>
+<li><span data-sheets-root="1">Model Measurements: Height 5'9½', Waist 24, Bust 32, Hips 34<br></span></li>
+<li><span data-sheets-root="1">Model is wearing size 0</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">3591737</span></li>
+</ul>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress_style::datenight</s:tag>
+    <s:tag>executive</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>newarrivals</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:tag>socialite</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884447084</id>
+      <title>Black/Porcealin / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591737blk/por:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884447084</id>
+      <title>Black/Porcealin / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591737blk/por:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884447084</id>
+      <title>Black/Porcealin / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591737blk/por:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884447084</id>
+      <title>Black/Porcealin / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591737blk/por:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884447084</id>
+      <title>Black/Porcealin / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591737blk/por:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884447084</id>
+      <title>Black/Porcealin / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591737blk/por:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884447084</id>
+      <title>Black/Porcealin / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591737blk/por:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14673884447084</id>
+      <title>Black/Porcealin / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591737blk/por:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14629444813164</id>
+    <published>2024-12-23T18:07:17-08:00</published>
+    <updated>2024-12-23T18:07:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/mayra-jumpsuit"/>
+    <title>Mayra Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-1611_1.jpg?v=1735255900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mayra jumpsuit is designed to make a bold statement, blending elegance and comfort effortlessly. Featuring short sleeves and a mock neckline, it creates a sleek, modern silhouette. The top of this garment showcases a structured design with three visible seam lines run vertically from the neckline to the waist, enhancing the tailored fit and giving the garment a sleek, contoured look. The wide-leg pants and back keyhole cutout add a dramatic flair, making it perfect for any event.</p>
+<ul>
+<li>Stretch jumpsuit with tailored bodice</li>
+<li>Mock neckline with short sleeves</li>
+<li>Back keyhole cutout with button closure</li>
+<li>Wide-leg pants with pleated details</li>
+<li>Hidden back zipper</li>
+<li>Side seam pockets</li>
+<li>Model is wearing a size 2 and her measurements are 5’10”, 32A” bust, 23” waist, 35” hips.</li>
+<li>3001733<meta charset="utf-8">
+</li>
+</ul>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>executive</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>love collection</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:tag>socialite</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Desert Sand / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733deses:0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Desert Sand / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733deses:2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Desert Sand / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733deses:4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Desert Sand / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733deses:6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Desert Sand / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733deses:8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Desert Sand / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733deses:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Desert Sand / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733deses:12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Desert Sand / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733deses:14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Vibrant Blue / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733vibb:0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Vibrant Blue / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733vibb:2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Vibrant Blue / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733vibb:4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Vibrant Blue / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733vibb:6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Vibrant Blue / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733vibb:8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Vibrant Blue / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733vibb:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Vibrant Blue / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733vibb:12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629444813164</id>
+      <title>Vibrant Blue / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001733vibb:14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/14629200724332</id>
+    <published>2024-12-04T12:32:50-08:00</published>
+    <updated>2024-12-04T12:32:50-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/kerry-jumpsuit"/>
+    <title>Kerry Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/3001720_1.jpg?v=1735251463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">Sophistication meets modern elegance in a tailored jumpsuit featuring a flattering sweetheart neckline, gold-tone button accents, and structured 3/4 sleeves with rolled cuffs. Designed to make a bold statement, the piece is crafted from mid-weight suiting fabric, offering comfort and style for formal occasions or evenings out.</span></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Mid-weight, low-stretch suiting fabric<br></span></li>
+<li><span data-sheets-root="1">Sweetheart neckline<br></span></li>
+<li><span data-sheets-root="1">Gold-tone button details<br></span></li>
+<li><span data-sheets-root="1">3/4 sleeves with rolled cuffs<br></span></li>
+<li><span data-sheets-root="1">Hidden back zip closure<br></span></li>
+<li><span data-sheets-root="1">Faux front pockets and functional slant hip pockets</span></li>
+<li><span data-sheets-root="1"><meta charset="utf-8"> <span>Model is wearing a size 2 and her measurements are 5’10”, 32A” bust, 23” waist, 35” hips</span></span></li>
+<li>3001720</li>
+</ul>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>dress_style::datenight</s:tag>
+    <s:tag>executive</s:tag>
+    <s:tag>Holiday Collection</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>love collection</s:tag>
+    <s:tag>Shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Wildfire / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720wildf:0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Wildfire / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720wildf:2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Wildfire / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720wildf:4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Wildfire / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720wildf:6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Wildfire / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720wildf:8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Wildfire / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720wildf:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Wildfire / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720wildf:12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Wildfire / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720wildf:14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720blk:0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720blk:2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720blk:4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720blk:6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720blk:8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720blk:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720blk:12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/14629200724332</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3001720blk:14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/6901996486728</id>
+    <published>2024-10-30T15:07:42-07:00</published>
+    <updated>2024-10-30T15:07:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/genesis-cb-jumpsuit"/>
+    <title>Genesis CB Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/3841468_lumis_02.jpg?v=1729877719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<p><span data-sheets-root="1">This stunning mixed-media jumpsuit offers a blend of elegance and modern style. The textured lurex stretch knit bodice adds a touch of sparkle, while the halter neckline highlights your shoulders. Paired with high-waisted, ultra-flattering Isabella pants crafted from contrasting stretch crepe, this one-piece jumpsuit is both chic and comfortable. The hidden center back zipper ensures an easy step-in fit, making it perfect for any special occasion.<br></span><br></p>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<ul>
+<li><span data-sheets-root="1">Mixed media one-piece jumpsuit</span></li>
+<li><span data-sheets-root="1">Textured lurex stretch knit bodice with a subtle shimmer</span></li>
+<li><span data-sheets-root="1">Halter neckline </span></li>
+<li><span data-sheets-root="1">Contrast stretch crepe pants</span></li>
+<li><span data-sheets-root="1">High waist with front seam design for a flattering silhouette</span></li>
+<li>
+<span data-sheets-root="1">Hidden center back zipper </span><br>
+</li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">Model is wearing a size 2 and her measurements are 5’10”, 32A” bust, 23” waist, 35” hips</span></li>
+<li><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 0.875rem;">3841468</span></li>
+</ul>
+<!---->
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style>
+<style type="text/css"><!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Category-shop-all::Jumpsuit</s:tag>
+    <s:tag>dress_style::datenight</s:tag>
+    <s:tag>Holiday Collection</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>shop all</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:tag>sleeve_length::Halter Top</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6901996486728</id>
+      <title>Lumiere Sparkle / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>3841468lumis:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6901996486728</id>
+      <title>Lumiere Sparkle / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>3841468lumis:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6901996486728</id>
+      <title>Lumiere Sparkle / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>3841468lumis:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6901996486728</id>
+      <title>Lumiere Sparkle / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>3841468lumis:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6901996486728</id>
+      <title>Lumiere Sparkle / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>3841468lumis:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6901996486728</id>
+      <title>Lumiere Sparkle / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>3841468lumis:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6901996486728</id>
+      <title>Lumiere Sparkle / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>3841468lumis:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6901996486728</id>
+      <title>Lumiere Sparkle / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>3841468lumis:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/4411142570056</id>
+    <published>2024-08-07T08:58:36-07:00</published>
+    <updated>2024-08-07T08:58:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/brooklyn-jumpsuit"/>
+    <title>Brooklyn Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/3591228_pacb_01.jpg?v=1730404126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">An update to our Brooklyn Mini, the jumpsuit is cut from our Double Face Viscose Blend and is styled with a fjewel neckline, 3/4 sleeves with ruffle cuff and cropped tapered leg. Lined bodice with center back hidden zipper. Inseam measures 28". Self:62% Polyamide, 32% Viscose, 6% Elastane; Lining: 95% Polyamide, 5% Elastane. Dry clean with care. Made in the USA of imported materials.<br><br>
+<p>Model is 510.5, wearing size 4.</p>
+<ul class="product-details-ul product-tab-content">
+<li>Style 3591228</li>
+<li>Cropped Straight Pant Leg</li>
+<li>Tailored Bodice</li>
+<li>Lined Bodice</li>
+<li>Symmetrical Side Seam Pockets</li>
+<li>Jewel Neckline</li>
+<li>3/4 Sleeve</li>
+<li>28 in. Inseam</li>
+<li>Center Back Hidden Zipper</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altbride</s:tag>
+    <s:tag>bestsellers</s:tag>
+    <s:tag>Category-shop-all::Jumpsuit</s:tag>
+    <s:tag>color::Black</s:tag>
+    <s:tag>color::White</s:tag>
+    <s:tag>executive</s:tag>
+    <s:tag>fabric::Super Loft Woven</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>name_sub::Super Loft Woven</s:tag>
+    <s:tag>pant::Straight</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:tag>sleeve_length::3/4 Sleeve</s:tag>
+    <s:tag>socialite</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Pacific Blue / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228pacb:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Pacific Blue / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228pacb:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Pacific Blue / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228pacb:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Pacific Blue / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228pacb:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Pacific Blue / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228pacb:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Pacific Blue / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228pacb:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Pacific Blue / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228pacb:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Pacific Blue / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228pacb:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228blk:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228blk:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228blk:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228blk:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228blk:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228blk:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228blk:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228blk:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Porcelain / 0</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228por:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Porcelain / 2</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228por:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Porcelain / 4</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228por:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Porcelain / 6</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228por:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Porcelain / 8</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228por:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Porcelain / 10</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228por:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Porcelain / 12</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228por:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411142570056</id>
+      <title>Porcelain / 14</title>
+      <s:price currency="USD">460.00</s:price>
+      <s:sku>3591228por:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/6691593584712</id>
+    <published>2024-03-18T11:48:42-07:00</published>
+    <updated>2024-03-18T11:48:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/jackie-o-playsuit"/>
+    <title>Jackie O Playsuit</title>
+    <s:type>Playsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/BH-Jackie_O_Playsuit-Sugar_3.jpg?v=1730313253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Playsuit<br>
+        <strong>Price: </strong>
+            345.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-details-ul product-tab-content" data-mce-fragment="1">
+<li>Style 2581132</li>
+<li>If you are in between sizes we suggest that you size up.</li>
+<li>Hidden center back zipper</li>
+<li>Draped neckline</li>
+<li>Belt is included</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altbride</s:tag>
+    <s:tag>color::Sugar</s:tag>
+    <s:tag>color::Vibrant Pink</s:tag>
+    <s:tag>dress_style::datenight</s:tag>
+    <s:tag>Jackie o</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>play suit</s:tag>
+    <s:tag>playsuit</s:tag>
+    <s:tag>romper</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Sugar / 0</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132sugar:0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Sugar / 2</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132sugar:2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Sugar / 4</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132sugar:4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Sugar / 6</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132sugar:6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Sugar / 8</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132sugar:8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Sugar / 10</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132sugar:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Sugar / 12</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132sugar:12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Sugar / 14</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132sugar:14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Vibrant Pink / 0</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132vibp:0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Vibrant Pink / 2</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132vibp:2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Vibrant Pink / 4</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132vibp:4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Vibrant Pink / 6</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132vibp:6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Vibrant Pink / 8</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132vibp:8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Vibrant Pink / 10</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132vibp:10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Vibrant Pink / 12</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132vibp:12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6691593584712</id>
+      <title>Vibrant Pink / 14</title>
+      <s:price currency="USD">345.00</s:price>
+      <s:sku>2581132vibp:14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/4411130871880</id>
+    <published>2023-07-17T16:16:11-07:00</published>
+    <updated>2023-07-17T16:16:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/jackie-jumpsuit"/>
+    <title>Classic Jackie O Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/201131_White_02.jpg?v=1747337158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            415.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Laurel Berman's iconic Black Halo Jackie O Dress updated as a wide-leg jumpsuit perfect for the office or an evening out. Designed and Manufactured in the USA of imported materials.</span></p>
+<ul class="product-details-ul product-tab-content">
+<li>Style 201131</li>
+<li>35 in. Inseam</li>
+<li>Center Back Hidden Zipper</li>
+<li>Lined Bodice</li>
+<li>Symmetrical Front Seam Pockets</li>
+<li>Draped Neckline</li>
+<li>Includes Genuine Leather Belt</li>
+<li>Tab Sleeve</li>
+<li>Tailored Bodice Paired with a Wide Leg Pant</li>
+<li>Petite Sizes represented by sizes ending in P</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altbride</s:tag>
+    <s:tag>bestsellers</s:tag>
+    <s:tag>Category-shop-all::Jumpsuit</s:tag>
+    <s:tag>color::Black</s:tag>
+    <s:tag>color::Blue</s:tag>
+    <s:tag>color::Red</s:tag>
+    <s:tag>color::White</s:tag>
+    <s:tag>dress_style::Giftsforher</s:tag>
+    <s:tag>executive</s:tag>
+    <s:tag>fabric::Luxe Gabardine</s:tag>
+    <s:tag>Holiday Collection</s:tag>
+    <s:tag>Jackie o</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>name_sub::Luxe Gabardine</s:tag>
+    <s:tag>pant::Wide</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:tag>sleeve_length::Sleeveless</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>White / 0</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131wht:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>White / 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131wht:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>White / 4</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131wht:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>White / 6</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131wht:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>White / 8</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131wht:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>White / 10</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131wht:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>White / 12</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131wht:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>White / 14</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131wht:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>White / 16</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131wht:16</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131blk:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131blk:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131blk:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131blk:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131blk:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131blk:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131blk:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131blk:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Black / 16</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131blk:16</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Cobalt / 0</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131coblt:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Cobalt / 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131coblt:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Cobalt / 4</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131coblt:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Cobalt / 6</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131coblt:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Cobalt / 8</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131coblt:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Cobalt / 10</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131coblt:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Cobalt / 12</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131coblt:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Cobalt / 14</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131coblt:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Cobalt / 16</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131coblt:16</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Eclipse / 0</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131eclp:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Eclipse / 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131eclp:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Eclipse / 4</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131eclp:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Eclipse / 6</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131eclp:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Eclipse / 8</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131eclp:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Eclipse / 10</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131eclp:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Eclipse / 12</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131eclp:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Eclipse / 14</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131eclp:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Eclipse / 16</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131eclp:16</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Red / 0</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131red:0</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Red / 2</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131red:2</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Red / 4</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131red:4</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Red / 6</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131red:6</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Red / 8</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131red:8</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Red / 10</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131red:10</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Red / 12</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131red:12</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Red / 14</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131red:14</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411130871880</id>
+      <title>Red / 16</title>
+      <s:price currency="USD">415.00</s:price>
+      <s:sku>201131red:16</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/6636188139592</id>
+    <published>2023-06-05T11:29:34-07:00</published>
+    <updated>2023-06-05T11:29:34-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/estella-sheath"/>
+    <title>Estella Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/EstellaJumpsuit_blk_02.jpg?v=1747866939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul class="product-details-ul product-tab-content" data-mce-fragment="1">
+<li data-mce-fragment="1">Elegantly draped twist mock neck<br>
+</li>
+<li data-mce-fragment="1">High waist front seam super flattering Isabella Pant made into a jumpsuit with</li>
+<li data-mce-fragment="1">Short sleeves</li>
+<li data-mce-fragment="1">Back keyhole to the waist<br>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bestsellers</s:tag>
+    <s:tag>color::Black</s:tag>
+    <s:tag>color::Hot Coral</s:tag>
+    <s:tag>color::Jewel Blue</s:tag>
+    <s:tag>color::Navy</s:tag>
+    <s:tag>Color::Oxblood</s:tag>
+    <s:tag>executive</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>pant::Straight</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610blk:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610blk:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610blk:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610blk:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610blk:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610blk:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610blk:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610blk:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Hot Coral / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610hotc:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Hot Coral / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610hotc:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Hot Coral / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610hotc:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Hot Coral / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610hotc:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Hot Coral / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610hotc:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Hot Coral / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610hotc:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Hot Coral / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610hotc:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Hot Coral / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610hotc:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Jewel Blue / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610jew:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Jewel Blue / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610jew:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Jewel Blue / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610jew:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Jewel Blue / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610jew:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Jewel Blue / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610jew:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Jewel Blue / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610jew:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Jewel Blue / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610jew:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Jewel Blue / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610jew:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Navy / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610navy:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Navy / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610navy:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Navy / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610navy:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Navy / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610navy:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Navy / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610navy:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Navy / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610navy:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Navy / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610navy:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Navy / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610navy:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Oxblood / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610oxb:0</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Oxblood / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610oxb:2</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Oxblood / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610oxb:4</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Oxblood / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610oxb:6</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Oxblood / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610oxb:8</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Oxblood / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610oxb:10</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Oxblood / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610oxb:12</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Oxblood / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610oxb:14</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/6636188139592</id>
+      <title>Oxblood / 16</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>6351610oxb:16</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/4411131592776</id>
+    <published>2021-05-06T12:21:53-07:00</published>
+    <updated>2021-05-06T12:21:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/3-4-sleeve-jackie-jumpsuit"/>
+    <title>Classic 3/4 Sleeve Jackie O Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/201134_Black_02.jpg?v=1740697885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laurel Berman's iconic Black Halo Jackie O Jumpsuit updated as a wide-leg jumpsuit with 3/4 sleeves is perfect for the office or an evening out. Designed and Manufactured in the USA of imported fabrics.</p>
+<ul class="product-details-ul product-tab-content">
+<li>Style: 201134</li>
+<li>Tailored Bodice Paired with a Wide Leg Pant</li>
+<li>Center Back Hidden Zipper</li>
+<li>Lined Bodice</li>
+<li>Symmetrical Front Seam Pockets</li>
+<li>Draped Neckline</li>
+<li>Includes Genuine Leather Belt</li>
+<li>3/4 Sleeve</li>
+<li>34 in. Inseam</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altbride</s:tag>
+    <s:tag>bestsellers</s:tag>
+    <s:tag>bridal</s:tag>
+    <s:tag>color::Black</s:tag>
+    <s:tag>color::Blue</s:tag>
+    <s:tag>color::Red</s:tag>
+    <s:tag>color::White</s:tag>
+    <s:tag>dress_style::cultfinds</s:tag>
+    <s:tag>dress_style::Giftsforher</s:tag>
+    <s:tag>executive</s:tag>
+    <s:tag>Holiday Collection</s:tag>
+    <s:tag>Jackie o</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Black / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134blk:0</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Black / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134blk:2</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Black / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134blk:4</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Black / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134blk:6</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Black / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134blk:8</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Black / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134blk:10</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Black / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134blk:12</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Black / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134blk:14</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Eclipse / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134eclp:0</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Eclipse / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134eclp:2</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Eclipse / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134eclp:4</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Eclipse / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134eclp:6</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Eclipse / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134eclp:8</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Eclipse / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134eclp:10</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Eclipse / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134eclp:12</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Eclipse / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134eclp:14</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Red / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134red:0</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Red / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134red:2</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Red / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134red:4</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Red / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134red:6</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Red / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134red:8</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Red / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134red:10</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Red / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134red:12</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>Red / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134red:14</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>White / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134wht:0</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>White / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134wht:2</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>White / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134wht:4</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>White / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134wht:6</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>White / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134wht:8</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>White / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134wht:10</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>White / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134wht:12</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411131592776</id>
+      <title>White / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>201134wht:14</s:sku>
+      <s:grams>1134</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.blackhalo.com/products/4411203321928</id>
+    <published>2018-09-18T15:26:49-07:00</published>
+    <updated>2018-09-18T15:26:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.blackhalo.com/products/lena-color-block-jumpsuit"/>
+    <title>Lena Color Block Jumpsuit</title>
+    <s:type>Jumpsuit</s:type>
+    <s:vendor>Black Halo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0215/2942/8040/files/5021169_blk-blk_01.jpg?v=1730409582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Black Halo<br>
+        <strong>Type: </strong>Jumpsuit<br>
+        <strong>Price: </strong>
+            435.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><ul class="product-details-ul product-tab-content">
+<li>Style 5021169</li>
+<li>35 Inch Inseam</li>
+<li>Tailored Bodice</li>
+<li>Hidden Center Back Zipper</li>
+<li>Sleeveless</li>
+<li>Center Square Notch Neckline</li>
+<li>Lined Bodice</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>altbride</s:tag>
+    <s:tag>bestsellers</s:tag>
+    <s:tag>bridal</s:tag>
+    <s:tag>cocktail</s:tag>
+    <s:tag>color::Black</s:tag>
+    <s:tag>color::Colorblock</s:tag>
+    <s:tag>color::Navy</s:tag>
+    <s:tag>color::Off White</s:tag>
+    <s:tag>color::Red</s:tag>
+    <s:tag>color::White</s:tag>
+    <s:tag>dress_style::altbride</s:tag>
+    <s:tag>dress_style::cutouts</s:tag>
+    <s:tag>eve</s:tag>
+    <s:tag>fabric::Plated Crepe &amp; Stretch Crepe</s:tag>
+    <s:tag>Holiday Collection</s:tag>
+    <s:tag>jumpsuit</s:tag>
+    <s:tag>love collection</s:tag>
+    <s:tag>name_sub::Plated Crepe &amp; Stretch Crepe</s:tag>
+    <s:tag>pant::Wide</s:tag>
+    <s:tag>shopall</s:tag>
+    <s:tag>sleeve_length::Sleeveless</s:tag>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Black-Black / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169blk-blk:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Black-Black / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169blk-blk:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Black-Black / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169blk-blk:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Black-Black / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169blk-blk:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Black-Black / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169blk-blk:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Black-Black / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169blk-blk:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Black-Black / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169blk-blk:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Black-Black / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169blk-blk:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Cristal-Porcelain / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169crip:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Cristal-Porcelain / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169crip:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Cristal-Porcelain / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169crip:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Cristal-Porcelain / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169crip:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Cristal-Porcelain / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169crip:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Cristal-Porcelain / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169crip:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Cristal-Porcelain / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169crip:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Cristal-Porcelain / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169crip:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Navy-Navy / 0</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169nvy/nvy:0</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Navy-Navy / 2</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169nvy/nvy:2</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Navy-Navy / 4</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169nvy/nvy:4</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Navy-Navy / 6</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169nvy/nvy:6</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Navy-Navy / 8</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169nvy/nvy:8</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Navy-Navy / 10</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169nvy/nvy:10</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Navy-Navy / 12</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169nvy/nvy:12</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.blackhalo.com/products/4411203321928</id>
+      <title>Navy-Navy / 14</title>
+      <s:price currency="USD">435.00</s:price>
+      <s:sku>5021169nvy/nvy:14</s:sku>
+      <s:grams>1361</s:grams>
+    </s:variant>
+  </entry>
+</feed>
